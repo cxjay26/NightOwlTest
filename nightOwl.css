@@ -1,0 +1,12 @@
+img.favIcon {
+    width: 50px;
+    display: inline-block;
+    float: left;
+}
+
+a.navbar-brand {
+    display: inherit;
+    float: left;
+    margin: 0;
+    padding: 0px;
+}
